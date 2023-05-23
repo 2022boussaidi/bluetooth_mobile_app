@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959924580431",
+    "project_id": "projet-sem-3be05",
+    "storage_bucket": "projet-sem-3be05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959924580431:android:4944b393174386e48f7a3a",
+        "android_client_info": {
+          "package_name": "com.cambotutorial.sovary.qrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959924580431-9v5hvu03vnv753pjqcgedq1pdhlp55dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyqa9gSTMTp1ZHg3MANSFF2saRNkAI7D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959924580431-9v5hvu03vnv753pjqcgedq1pdhlp55dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
